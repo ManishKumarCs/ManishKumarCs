@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<p align="center">
+  <a href="https://manishdev-my-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%23FF4D6D.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
