@@ -17,7 +17,15 @@
 
 ---
 
+## 🚀 What I Do  
+🔹 **Full Stack Development** – React, Next.js, Node.js, MongoDB  
+🔹 **AI & ML Enthusiast** – Exploring AI-powered applications  
+🔹 **Problem Solver** – Solving DSA & LeetCode problems regularly  
+🔹 **Open Source Contributor** – Passionate about sharing knowledge  
+🔹 **Tech Content Creator** – Sharing knowledge on LinkedIn & GitHub  
+
 ## 🛠️ **Tech Stack & Tools**  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,java,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,bootstrap,redux,vercel,git,github,firebase,docker,graphql" />
 </p>
