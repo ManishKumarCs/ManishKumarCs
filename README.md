@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <p align="center">
-  <a href="https://manishdev-my-portfolio.vercel.app" target="_blank">
+  <a href="https://manishdev.tech" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-%23FF4D6D.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
