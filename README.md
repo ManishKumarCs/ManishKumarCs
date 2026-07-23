@@ -70,7 +70,7 @@
 ## 📬 Connect With Me
 
 - 📧 **Email:** [manishprajapati.cs1@gmail.com](mailto:manishprajapati.cs1@gmail.com)  
-- 🌐 **Website:** [manishdev.tech](https://manishdev.tech)  
+- 🌐 **Website:** [manishdev.xyz](https://manishdev.xyz)  
 - 🐙 **GitHub:** [ManishKumarCs](https://github.com/ManishKumarCs)  
 - 💼 **LinkedIn:** [Manish Kumar](https://www.linkedin.com/in/manishkumarcs1)
 
