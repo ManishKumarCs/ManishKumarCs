@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manish Kumar
 
 <p align="center">
-  <a href="https://manishdev.tech" target="_blank">
+  <a href="https://manishdev.xyz" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-%23FF4D6D.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
@@ -39,11 +39,11 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [🔗 **SwiftKart**](https://swiftkart.netlify.app) | Full-featured e-commerce platform for seamless online shopping | React, Redux, Node.js, Express |
-| [🔗 **Onboarding Management System (OMS)**](https://omsportal.manishdev.tech) | Smart HR onboarding & task management system | React, Tailwind CSS, Node.js, MongoDB |
+| [🔗 **Onboarding Management System (OMS)**](https://omsportal.manishdev.xyz) | Smart HR onboarding & task management system | React, Tailwind CSS, Node.js, MongoDB |
 | [🔗 **GitHub Explorer**](https://githubbexplorer.netlify.app) | Explore GitHub profiles & repos with ease | React, Tailwind CSS |
 | [🔗 **Bluestock Fintech**](#) | Admin analytics dashboard with stock/IPO insights | Django, REST API, PostgreSQL |
 | [🔗 **Medical Insurance Predictor**](https://medical-insurance-prediction.streamlit.app) | Predict medical insurance costs using ML models | Python, Pandas, Scikit-learn, Streamlit |
-| [🔗 **Portfolio Website**](https://manishdev.tech) | Interactive and animated personal portfolio | Next.js, Tailwind CSS, Framer Motion |
+| [🔗 **Portfolio Website**](https://manishdev.xyz) | Interactive and animated personal portfolio | Next.js, Tailwind CSS, Framer Motion |
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](https://manishdev.tech/og-image.png)
+![Portfolio Preview](https://manishdev.xyz/og-image.png)
 
 ---
 
